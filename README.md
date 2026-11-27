@@ -7,7 +7,7 @@ An AI-powered platform that uses Machine Learning to prioritize genetic disorder
 ### Live Application
 Explore and interact with the deployed application.
 
-[Open Live Application] (https://postings-tahoe-exist-gains.trycloudflare.com/)
+[Open Live Application] https://proven-innovative-profit-excess.trycloudflare.com/
 
 
 ###  Google Colab Notebook
