@@ -7,12 +7,13 @@ An AI-powered platform that uses Machine Learning to prioritize genetic disorder
 ### Live Application
 Explore and interact with the deployed application.
 
-[Open Live Application](https://diversity-troy-nurse-orders.trycloudflare.com/)
+[Open Live Application] (https://postings-tahoe-exist-gains.trycloudflare.com/)
+
 
 ###  Google Colab Notebook
 Explore the Python code, data preprocessing, model training and analysis.
 
-[View Google Colab Notebook](https://colab.research.google.com/drive/1nVGMZ4HWz9qVD23498cE43fbro-p6Oru?authuser=1)
+[View Google Colab Notebook] (https://colab.research.google.com/drive/1nVGMZ4HWz9qVD23498cE43fbro-p6Oru?usp=sharing)
 
 ###  Project Documentation
 Read the complete project report and understand the model evaluation and threshold analysis.
